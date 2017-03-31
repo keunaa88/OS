@@ -21,20 +21,23 @@ namespace ConvertSystem2
 
         private void button1_Click(object sender, EventArgs e)
         {
-        
+            //declare arrays for input and out data
             double [] input = new double[5];
             double [] output = new double[5];
 
             //convert input values to integer
+            //using 'TryParse' in case of parsing invalueable data
             double.TryParse(textBox1.Text, out input[0]);
             double.TryParse(textBox2.Text, out input[1]);
             double.TryParse(textBox3.Text, out input[2]);
             double.TryParse(textBox4.Text, out input[3]);
             double.TryParse(textBox5.Text, out input[4]);
 
-            
+            //save index value of comboBox which is selected by user
             int convertType = comboBox1.SelectedIndex;
             double multipleNum = 0;
+      
+            //formulars are from Google
             switch (convertType)
             {
                 case 0:
@@ -61,12 +64,14 @@ namespace ConvertSystem2
                     break;
             }
 
+            //convert from A to B 
+            //save data into output array
             for(int i=0; i<5; i++)
             {
                 output[i] = input[i] * multipleNum;
             }
             
-         
+            //showing results in output textboxes
             textBox6.Text = output[0].ToString();
             textBox7.Text = output[1].ToString();
             textBox8.Text = output[2].ToString();
