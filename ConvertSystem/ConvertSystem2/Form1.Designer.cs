@@ -94,8 +94,8 @@
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(171, 21);
             this.comboBox1.TabIndex = 5;
-            this.comboBox1.SelectedIndex = 0;
             // 
+            this.comboBox1.SelectedIndex = 0;
             // textBox6
             // 
             this.textBox6.Location = new System.Drawing.Point(287, 135);
