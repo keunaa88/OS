@@ -1,0 +1,18 @@
+c:\users\j378116\documents\visual studio 2015\Projects\OS_FinalProject\OS_FinalProject\bin\Debug\OS_FinalProject.exe.config
+c:\users\j378116\documents\visual studio 2015\Projects\OS_FinalProject\OS_FinalProject\bin\Debug\OS_FinalProject.exe
+c:\users\j378116\documents\visual studio 2015\Projects\OS_FinalProject\OS_FinalProject\bin\Debug\OS_FinalProject.pdb
+c:\users\j378116\documents\visual studio 2015\Projects\OS_FinalProject\OS_FinalProject\obj\Debug\OS_FinalProject.csprojResolveAssemblyReference.cache
+c:\users\j378116\documents\visual studio 2015\Projects\OS_FinalProject\OS_FinalProject\obj\Debug\OS_FinalProject.Form1.resources
+c:\users\j378116\documents\visual studio 2015\Projects\OS_FinalProject\OS_FinalProject\obj\Debug\OS_FinalProject.Properties.Resources.resources
+c:\users\j378116\documents\visual studio 2015\Projects\OS_FinalProject\OS_FinalProject\obj\Debug\OS_FinalProject.csproj.GenerateResource.Cache
+c:\users\j378116\documents\visual studio 2015\Projects\OS_FinalProject\OS_FinalProject\obj\Debug\OS_FinalProject.exe
+c:\users\j378116\documents\visual studio 2015\Projects\OS_FinalProject\OS_FinalProject\obj\Debug\OS_FinalProject.pdb
+E:\Tafe\Latest\OS_FinalProject\OS_FinalProject\bin\Debug\OS_FinalProject.exe.config
+E:\Tafe\Latest\OS_FinalProject\OS_FinalProject\obj\Debug\OS_FinalProject.exe
+E:\Tafe\Latest\OS_FinalProject\OS_FinalProject\obj\Debug\OS_FinalProject.pdb
+E:\Tafe\Latest\OS_FinalProject\OS_FinalProject\bin\Debug\OS_FinalProject.exe
+E:\Tafe\Latest\OS_FinalProject\OS_FinalProject\bin\Debug\OS_FinalProject.pdb
+E:\Tafe\Latest\OS_FinalProject\OS_FinalProject\obj\Debug\OS_FinalProject.csprojResolveAssemblyReference.cache
+E:\Tafe\Latest\OS_FinalProject\OS_FinalProject\obj\Debug\OS_FinalProject.Form1.resources
+E:\Tafe\Latest\OS_FinalProject\OS_FinalProject\obj\Debug\OS_FinalProject.Properties.Resources.resources
+E:\Tafe\Latest\OS_FinalProject\OS_FinalProject\obj\Debug\OS_FinalProject.csproj.GenerateResource.Cache
